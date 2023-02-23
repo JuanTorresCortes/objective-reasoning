@@ -97,7 +97,7 @@ describe('getHardestHomework', () => {
     });
 });
 
-describe('createPhonebook', () => {
+describe.only('createPhonebook', () => {
 
     it('creates a phonebook from two arrays', () => {
 
